@@ -33,6 +33,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := oxygen
 PRODUCT_NAME := omni_oxygen
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Mi MAX 2
+PRODUCT_MODEL := MI MAX 2
 PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_RELEASE_NAME := Xiaomi Mi MAX 2
+PRODUCT_RELEASE_NAME := Xiaomi MI MAX 2
